@@ -1,0 +1,50 @@
+.bungkus0 {
+    border: 1px solid black;
+    width: 1000px;
+}
+header {
+    font-family: sans-serif;
+}
+#img1 {
+    float: left;
+    padding: 20px; 
+    width: 250px; 
+    margin: -5px;
+}
+.bungkus1 {
+    margin-left: 20px; 
+    padding-top: 10px;
+}
+.bungkus2 {
+    text-align: end; 
+    margin-right: 10px; 
+    margin: -240px 10px 200px;
+}
+#heading1 {
+    text-decoration: underline;
+}
+.data1, .data2, .data3 {
+    color: black;
+}
+.bungkus3 {
+    margin-left: 15px;
+}
+video, #img2 {
+    width: 250px; 
+    height: 250px; 
+    margin-left: 15px; 
+    border: 1px solid black;
+}
+video {
+    margin-bottom: 15px;
+}
+#img2 {
+    margin: 15px;
+}
+fieldset {
+    width: 400px; 
+    height: 250px; 
+    float: right; 
+    margin-right: 15px; 
+    border: 1px solid black;
+}
